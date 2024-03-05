@@ -1,2 +1,3 @@
 # south_german_credit_prediction
-Apply various machine learning models.
+Applied classification machine learning models and compared the accuracy of each.
+#Co-authored by Sakshi Gada and Agrima Jain
